@@ -17,9 +17,15 @@ public class Práctica7 {
 		// Ejer 2
 		result2 = 7 - 4 * 2 - 5 * 2;
 
+		// Ejer 3
+		result3 = 5 + 4 < 7 + 8;
+		// Ejer 4
+		result4 = 4 < 5 * 4 / 2 - 7;
 
 		System.out.println(result1);
 		System.out.println(result2);
+		System.out.println(result3);
+		System.out.println(result4);
 
 	}
 }
