@@ -21,11 +21,14 @@ public class Práctica7 {
 		result3 = 5 + 4 < 7 + 8;
 		// Ejer 4
 		result4 = 4 < 5 * 4 / 2 - 7;
+		// Ejer 5
+		result5 = !(4 > 6);
 
 		System.out.println(result1);
 		System.out.println(result2);
 		System.out.println(result3);
 		System.out.println(result4);
+		System.out.println(result5);
 
 	}
 }
